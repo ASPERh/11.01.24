@@ -1,0 +1,19 @@
+﻿  11.01.24 (1).cpp
+  stu.cpp
+C:\Users\ASPER\source\repos\11.01.24 (1)\11.01.24 (1)\stu.cpp(12,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASPER\source\repos\11.01.24 (1)\11.01.24 (1)\stu.cpp(18,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASPER\source\repos\11.01.24 (1)\11.01.24 (1)\stu.cpp(24,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASPER\source\repos\11.01.24 (1)\11.01.24 (1)\stu.cpp(60,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASPER\source\repos\11.01.24 (1)\11.01.24 (1)\stu.cpp(71,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASPER\source\repos\11.01.24 (1)\11.01.24 (1)\stu.cpp(84,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASPER\source\repos\11.01.24 (1)\11.01.24 (1)\stu.cpp(94,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASPER\source\repos\11.01.24 (1)\11.01.24 (1)\stu.cpp(107,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASPER\source\repos\11.01.24 (1)\11.01.24 (1)\stu.cpp(121,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASPER\source\repos\11.01.24 (1)\11.01.24 (1)\stu.cpp(124,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASPER\source\repos\11.01.24 (1)\11.01.24 (1)\stu.cpp(127,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ASPER\source\repos\11.01.24 (1)\11.01.24 (1)\stu.cpp(140,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\ASPER\source\repos\11.01.24 (1)\11.01.24 (1)\stu.cpp(80): warning C4715: Student::GePracticRatesCount: значение возвращается не при всех путях выполнения
+C:\Users\ASPER\source\repos\11.01.24 (1)\11.01.24 (1)\stu.cpp(103): warning C4715: Student::GetHomeWorkRatesCount: значение возвращается не при всех путях выполнения
+C:\Users\ASPER\source\repos\11.01.24 (1)\11.01.24 (1)\stu.cpp(149): warning C4715: Student::GetExamRatesCount: значение возвращается не при всех путях выполнения
+  11.01.24 (1).vcxproj -> C:\Users\ASPER\source\repos\11.01.24 (1)\x64\Debug\11.01.24 (1).exe
